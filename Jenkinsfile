@@ -36,7 +36,7 @@ pipeline {
       {
        steps
         {
-          echo 'Build done'
+          echo 'Build done YOO'
          }
        }
       }
