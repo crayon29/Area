@@ -6,6 +6,7 @@ public class MyClass {
 	
 	public int AreaRect(int l, int b)
 	{
+		System.out.println("Inside areRect func");
 		return (l*b);
 	}
 	
