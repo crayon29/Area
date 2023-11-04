@@ -12,14 +12,16 @@ public class MyClass {
 	
 	public double AreaTri(int r)
 	{
+		int d;
 		return (3.14*r*r);
 	}
 	public int sum(int a, int b)
 	{
 		int f;
 		int g;
+		int k;
 		f=50+60;
-		return f;
+		return 20;
 	}	
 	
 	public static void main(String[] args) {
