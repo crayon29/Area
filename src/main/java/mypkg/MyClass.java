@@ -14,7 +14,14 @@ public class MyClass {
 	{
 		return (3.14*r*r);
 	}
-
+	public int sum(int a, int b)
+	{
+		int f;
+		int g;
+		f=50+60;
+		return f;
+	}	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
