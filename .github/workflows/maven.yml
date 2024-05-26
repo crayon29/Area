@@ -22,7 +22,7 @@ jobs:
       run: mvn -B package --file pom.xml
 
     - name: Docker Build and push 
-      uses: docker/build-push-action@v5
+      uses: mr-smithers-excellent/docker-build-push@v6
       with:
        image: swagat23/githubactions
        registry: docker.io
